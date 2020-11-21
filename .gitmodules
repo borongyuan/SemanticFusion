@@ -1,7 +1,7 @@
 [submodule "elasticfusionpublic"]
 	path = elasticfusionpublic
-	url = https://bitbucket.org/dysonroboticslab/elasticfusionpublic.git
+	url = https://github.com/dyson-robotics-lab/ElasticFusionPublic.git
 	branch = semanticfusion
 [submodule "caffe_semanticfusion"]
 	path = caffe_semanticfusion
-	url = https://bitbucket.org/dysonroboticslab/caffe_semanticfusion.git
+	url = https://github.com/dyson-robotics-lab/Caffe_SemanticFusion.git
